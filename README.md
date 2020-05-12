@@ -4,6 +4,8 @@ Calcule propriedades termodinâmicas com alguns clicks.
 Nesta versão do e-Gibbs usaremos arquivos .out criados no mopac para calcular entalpia e entropia de
 de moléculas usando temperaturas de 200°K à 400°K.
 
+No projeto foi utilizado o PySimgleGUI para criar a interface gráfica.
+
 # Usando o e-Gibbs:
 
 1. Primeiramente use o botão 'Browse' para buscar o arquivo .out.
